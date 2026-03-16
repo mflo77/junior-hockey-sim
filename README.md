@@ -92,7 +92,7 @@ src/com/juniorhockeysim/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOURUSERNAME/junior-hockey-sim.git
+   git clone https://github.com/mflo77/junior-hockey-sim.git
    cd junior-hockey-sim
    ```
 
